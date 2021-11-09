@@ -1,0 +1,10 @@
+# Jupyter notebook
+.ipynb_checkpoints
+
+# OS thinks 
+.DS_Store
+
+# Compile thinks
+*.x
+*a.out
+*~
